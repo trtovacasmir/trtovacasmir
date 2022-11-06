@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Asmir.<br> I study Informatics at the Department of Computer Science at the International University of Novi Pazar.<br>I'm coming from Tutin, Serbia</p>
+<p align="left">- My name is Asmir.<br>- I study Informatics at the Department of Computer Science at the International University of Novi Pazar.<br>- I'm coming from Tutin, Serbia</p>
 
 ###
 
