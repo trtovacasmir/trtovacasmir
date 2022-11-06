@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Asmir and I'm a student at the International University of Novi Pazar.<br>I'm coming from Tutin, Serbia</p>
+<p align="left">My name is Asmir.<br> and I'm a student at the International University of Novi Pazar.<br>I'm coming from Tutin, Serbia</p>
 
 ###
 
