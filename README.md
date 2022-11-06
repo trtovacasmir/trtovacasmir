@@ -1,4 +1,4 @@
- <h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🎯 I'm interested and like to learn new technologies<br>📚 I'm currently learning ...</p>
+<p align="left">🎯 I'm interested and like to learn new technologies.<br>📚 I have the motivation to study.</p>
 
 ###
 
-<h2 align="left">I now learning code with</h2>
+<h2 align="left">I'm currently learning ...</h2>
 
 ###
 
