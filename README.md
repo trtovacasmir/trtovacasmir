@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is Asmir.<br>- I study Informatics at the Department of Computer Science at the International University of Novi Pazar.<br>- I'm coming from Tutin, Serbia</p>
+<p align="left">- My name is Asmir.<br>- I'm coming from Tutin, Serbia</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">🎯 I'm interested and like to learn new technologies.<br>📚 I have the motivation to study.</p>
+<p align="left">🎓- I study Informatics at the Department of Computer Science at the International University of Novi Pazar.<br></p>
+    <br>🎯 I'm interested and like to learn new technologies.<br>📚 I have the motivation to study.</p>
 
 ###
 
